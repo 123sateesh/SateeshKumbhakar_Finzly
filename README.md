@@ -6,7 +6,7 @@
 3. Loop conncept  question
 4. horse move problem or `Kight Tour Problem`.
 5. Method Resolution concecpt.
-6. OOPS based Some codding questions.  
+6. **OOPS** based Some codding questions.  
 
 
 
